@@ -1,0 +1,2 @@
+This script doesn't do anything in this project. It is just a copy of
+the code that is on the Raspberry Pi 3 that updates the database.
